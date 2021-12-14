@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sparta-plaesent-javascript/static/css/main.6cf1900a.css",
+    "main.js": "/sparta-plaesent-javascript/static/js/main.cc803d6c.js",
+    "static/js/787.bdd799b4.chunk.js": "/sparta-plaesent-javascript/static/js/787.bdd799b4.chunk.js",
+    "static/media/Logo.svg": "/sparta-plaesent-javascript/static/media/Logo.4ac6079962d875c0b6599b9d247600fd.svg",
+    "static/media/slick.svg": "/sparta-plaesent-javascript/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sparta-plaesent-javascript/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sparta-plaesent-javascript/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sparta-plaesent-javascript/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sparta-plaesent-javascript/index.html",
+    "main.6cf1900a.css.map": "/sparta-plaesent-javascript/static/css/main.6cf1900a.css.map",
+    "main.cc803d6c.js.map": "/sparta-plaesent-javascript/static/js/main.cc803d6c.js.map",
+    "787.bdd799b4.chunk.js.map": "/sparta-plaesent-javascript/static/js/787.bdd799b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cf1900a.css",
+    "static/js/main.cc803d6c.js"
+  ]
+}

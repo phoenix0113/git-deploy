@@ -1,0 +1,56 @@
+.footer-content {
+  width: 33%;
+  @media (max-width: 1024px) {
+    width: 50%;
+  }
+  @media (max-width: 678px) {
+    width: 100%;
+  }
+  margin: auto;
+  text-align: center;
+  padding: 0 3.75%;
+}
+
+.footer-title {
+  font-family: ACaslonPro;
+  font-size: 18px;
+}
+
+.footer-form {
+  display: flex;
+  padding: 20px 0 50px 0;
+}
+
+.footer-input {
+  height: 37px;
+  width: 72.4%;
+  font-size: 14px;
+  :focus {
+    outline: none;
+  }
+  padding: 0 10px;
+}
+
+.black-border {
+  border: 1px solid #000;
+}
+
+.red-border {
+  border: 1px solid #ff0000;
+}
+
+.footer-submit {
+  width: 27.6%;
+  height: 37px;
+  background: #000;
+  color: #ffffff;
+  border: 1px solid #000;
+  text-transform: uppercase;
+  :focus {
+    outline: none;
+  }
+}
+
+.footer-copyright {
+  font-size: 11px;
+}

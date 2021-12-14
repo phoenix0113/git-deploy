@@ -1,0 +1,44 @@
+.header-content {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100px;
+  @media (max-width: 678px) {
+    height: 50px;
+  }
+  display: flex;
+  align-items: center;
+  padding: 0 7.5%;
+  @media (max-width: 480px) {
+    padding: 0 2.5%;
+  }
+  background: #ffffff;
+  z-index: 10;
+}
+
+.logo-image {
+  width: 196px;
+  @media (max-width: 480px) {
+    width: 98px;
+  }
+}
+
+.list-image {
+  width: 20px;
+}
+
+.left-subcontent {
+  width: 33%;
+}
+
+.right-subcontent {
+  width: 33%;
+  justify-content: end;
+  display: flex;
+}
+
+.logo-text {
+  font-size: 11px;
+  text-transform: uppercase;
+  padding: 0 10px;
+}
