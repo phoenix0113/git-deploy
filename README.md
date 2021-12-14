@@ -1,2 +1,2 @@
 # git-deploy
-This is react &amp; typescript project to deploy to github
+This is react project to deploy to github
